@@ -1,5 +1,5 @@
 # Xcode New Tab Search
-## README
+
 Applescript that opens the Quick Open search bar when you open a new tab.
 
 ### Why?
